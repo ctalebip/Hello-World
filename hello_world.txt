@@ -1,1 +1,2 @@
 Use print() finction to print "Hello World" in python
+This is a simple yet the most common function used in python
